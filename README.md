@@ -9,5 +9,4 @@ In this application we will be working with the OS module, The Python Requests l
 ---
 
 ## How to install 
-In order to run the functions in the application we have to import certain libraries.
 ![installing_libs_poject_five](https://user-images.githubusercontent.com/80865202/116475435-b2ffc280-a82e-11eb-8c0a-2b252aca64a4.JPG)
